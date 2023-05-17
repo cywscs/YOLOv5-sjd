@@ -1,0 +1,13 @@
+.title1 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.detect{
+    width: 1000px;
+    height: 1000px;
+}
+
+.detect img{
+    width: 50%;
+}
